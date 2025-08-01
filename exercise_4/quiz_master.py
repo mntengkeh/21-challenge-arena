@@ -27,15 +27,141 @@ quiz_questions = {
                  "options": ["A. Ions", "B. Fragments", "C. Planet fragments", "D. Planetismals"],
                  "answer": 3
              }],
-         "hard": [...]
+         "hard": [{
+                "question": " What is the most abundant gas in Earth’s atmosphere?", 
+                "options": ["A.Oxygen","B. Nitrogen","C. Carbon","D. Helium"], 
+                "answer": 1
+             },
+             {
+                 "question": "Which element has the highest melting point?",
+                 "options": ["A. Iron", "B. Tungsten", "C. Platinium", "D. Titanium"],
+                 "answer": 1
+             },
+             {
+                 "question": "What part of the cell is responsible for energy production?",
+                 "options": ["A. Nucleus", "B. Ribosome", "C. Mitochondrion", "D. Lysosome"],
+                 "answer": 2
+             },
+             {
+                 "question": " Which planet rotates the slowest on its axis?",
+                 "options": ["A. Mercury", "B. Venus", "C. Earth", "D. Kumba"],
+                 "answer": 1
+             },
+             {
+                 "question": " What type of bond involves the sharing of electron pairs?",
+                 "options": ["A. Ionic", "B. Metallic", "C. Hydrogen", "D. Covalent"],
+                 "answer": 3
+             }]
      },
      "history": {
-         "easy": [{"question": "Q?", "options": ["A","B","C","D"], "answer": 0}],
-         "hard": [...]
+         "easy": [
+             {
+        "question": "Who was the first President of the United States?",
+        "options": ["A. Jefferson", "B. Washington", "C. Lincoln", "D. Adams"],
+        "answer": 1
+    },
+    {
+        "question": "Which ancient civilization built the pyramids?",
+        "options": ["A. Romans", "B. Greeks", "C. Egyptians", "D. Persians"],
+        "answer": 2
+    },
+    {
+        "question": "What year did World War II end?",
+        "options": ["A. 1945", "B. 1940", "C. 1939", "D. 1950"],
+        "answer": 0
+    },
+    {
+        "question": "Which explorer discovered America in 1492?",
+        "options": ["A. Columbus", "B. Magellan", "C. da Gama", "D. Cook"],
+        "answer": 0
+    },
+    {
+        "question": "Which wall divided Berlin during the Cold War?",
+        "options": ["A. Great Wall", "B. Iron Wall", "C. Berlin Wall", "D. Soviet Wall"],
+        "answer": 2
+    }
+         ],
+         "hard": [
+             {
+        "question": "Who was the British Prime Minister at the start of World War I?",
+        "options": ["A. Churchill", "B. Lloyd George", "C. Asquith", "D. Chamberlain"],
+        "answer": 2
+    },
+    {
+        "question": "Which treaty ended the Thirty Years’ War?",
+        "options": ["A. Versailles", "B. Utrecht", "C. Westphalia", "D. Tordesillas"],
+        "answer": 2
+    },
+    {
+        "question": "What year did the French Revolution begin?",
+        "options": ["A. 1776", "B. 1789", "C. 1804", "D. 1812"],
+        "answer": 1
+    },
+    {
+        "question": "Who led the Haitian Revolution?",
+        "options": ["A. Toussaint", "B. Dessalines", "C. Bolivar", "D. L’Ouverture"],
+        "answer": 3
+    },
+    {
+        "question": "Which empire was ruled by Emperor Ashoka?",
+        "options": ["A. Gupta", "B. Mughal", "C. Maurya", "D. Chola"],
+        "answer": 2
+    }
+         ]
      },
      "sports": {
-         "easy": [{"question": "Q?", "options": ["A","B","C","D"], "answer": 0}],
-         "hard": [...]
+         "easy": [{
+        "question": "Which sport uses a bat and ball on a field with wickets?",
+        "options": ["A. Baseball", "B. Cricket", "C. Golf", "D. Tennis"],
+        "answer": 1
+    },
+    {
+        "question": "Which country has won the most FIFA World Cups?",
+        "options": ["A. Germany", "B. Italy", "C. Brazil", "D. Argentina"],
+        "answer": 2
+    },
+    {
+        "question": "What sport does Serena Williams play?",
+        "options": ["A. Tennis", "B. Basketball", "C. Swimming", "D. Cycling"],
+        "answer": 0
+    },
+    {
+        "question": "In which sport do players shoot hoops?",
+        "options": ["A. Football", "B. Rugby", "C. Basketball", "D. Hockey"],
+        "answer": 2
+    },
+    {
+        "question": "Which sport is known for the Tour de France?",
+        "options": ["A. Cycling", "B. Running", "C. Skiing", "D. Boxing"],
+        "answer": 0
+    }],
+         "hard": [
+             {
+        "question": "Which country hosted the first modern Olympic Games in 1896?",
+        "options": ["A. France", "B. Greece", "C. England", "D. Germany"],
+        "answer": 1
+    },
+    {
+        "question": "Which tennis player has won the most Grand Slam titles (singles) as of 2025?",
+        "options": ["A. Nadal", "B. Federer", "C. Djokovic", "D. Sampras"],
+        "answer": 2
+    },
+    {
+        "question": "What is the national sport of Canada?",
+        "options": ["A. Ice Hockey", "B. Lacrosse", "C. Baseball", "D. Basketball"],
+        "answer": 1
+    },
+    {
+        "question": "Which country won the ICC Cricket World Cup in 1992?",
+        "options": ["A. India", "B. Australia", "C. England", "D. Pakistan"],
+        "answer": 3
+    },
+    {
+        "question": "In which sport would you perform a 'Triple Axel'?",
+        "options": ["A. Diving", "B. Gymnastics", "C. Figure Skating", "D. Snowboarding"],
+        "answer": 2
+    }
+         ]
      }
 }
 
