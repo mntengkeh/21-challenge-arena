@@ -74,7 +74,7 @@ def check_grades(grades):
             return False
     return True
 
-
+# entry point to student gradebook
 def entry():
     print("\n=== STUDENT GRADEBOOK MANAGER ===\n")
 
